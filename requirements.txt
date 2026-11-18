@@ -1,0 +1,10 @@
+ultralytics==8.4.118
+torch>=2.8
+torchvision>=0.23
+numpy
+opencv-python
+pillow
+matplotlib
+python-docx
+# only for SAR/scripts/download.py
+modelscope

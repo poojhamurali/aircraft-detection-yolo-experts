@@ -1,0 +1,16 @@
+# data, runs and weights stay local
+dataset/
+dataset_raw/
+*/datasets/
+*/raw/
+*/outputs/
+*/scenes/
+*.pt
+*.cache
+*.log
+
+# environment
+.venv/
+__pycache__/
+.idea/
+.DS_Store
