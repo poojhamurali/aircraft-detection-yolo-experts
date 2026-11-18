@@ -5,6 +5,8 @@ has been audited for leakage. Part of the M.Tech project *Leakage-Audited Aircra
 Detection Across Optical, Thermal-Infrared and SAR Imagery* (Poojha Muralidharan,
 Amrita School of Computing).
 
+**Project website:** https://poojhamurali.github.io/unified-aircraft-detection/
+
 The single model that replaces these three experts lives in the companion repository
 [unified-aircraft-detection](https://github.com/poojhamurali/unified-aircraft-detection).
 
